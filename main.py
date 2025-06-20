@@ -11,8 +11,8 @@ import google.generativeai as genai
 load_dotenv()
 
 # Constants
-TOKEN: Final = "7750847720:AAFdzV-QY_KxE15oTXX2I8t1EFiMxkVpS9o"
-GOOGLE_API_KEY: Final = "AIzaSyCFnhKwNOfULOCJW6oukTrqeIyrFBJBo9g"
+TOKEN: Final = ""
+GOOGLE_API_KEY: Final = ""
 CHAT_ID: Final = 5545366860  # Your Chat ID
 
 # Gemini API Configuration
